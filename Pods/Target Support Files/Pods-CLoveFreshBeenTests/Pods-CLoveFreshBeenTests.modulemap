@@ -1,0 +1,6 @@
+framework module Pods_CLoveFreshBeenTests {
+  umbrella header "Pods-CLoveFreshBeenTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
